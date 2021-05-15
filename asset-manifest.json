@@ -1,16 +1,16 @@
 {
   "main.css": "/marketplace/static/css/main.83b30e14.chunk.css",
-  "main.js": "/marketplace/static/js/main.badb1683.chunk.js",
-  "main.js.map": "/marketplace/static/js/main.badb1683.chunk.js.map",
+  "main.js": "/marketplace/static/js/main.3f8b7656.chunk.js",
+  "main.js.map": "/marketplace/static/js/main.3f8b7656.chunk.js.map",
   "static/css/1.7e477a14.chunk.css": "/marketplace/static/css/1.7e477a14.chunk.css",
   "static/js/1.4d34caf5.chunk.js": "/marketplace/static/js/1.4d34caf5.chunk.js",
   "static/js/1.4d34caf5.chunk.js.map": "/marketplace/static/js/1.4d34caf5.chunk.js.map",
   "runtime~main.js": "/marketplace/static/js/runtime~main.dcfa41e5.js",
   "runtime~main.js.map": "/marketplace/static/js/runtime~main.dcfa41e5.js.map",
   "static/media/logo.png": "/marketplace/static/media/logo.06825633.png",
-  "static/css/1.7e477a14.chunk.css.map": "/marketplace/static/css/1.7e477a14.chunk.css.map",
   "static/css/main.83b30e14.chunk.css.map": "/marketplace/static/css/main.83b30e14.chunk.css.map",
+  "static/css/1.7e477a14.chunk.css.map": "/marketplace/static/css/1.7e477a14.chunk.css.map",
   "index.html": "/marketplace/index.html",
-  "precache-manifest.a5d68ef0169fdc5bf2e6572f1782dc22.js": "/marketplace/precache-manifest.a5d68ef0169fdc5bf2e6572f1782dc22.js",
+  "precache-manifest.b513989f4fa35f151f0473c0cabc670c.js": "/marketplace/precache-manifest.b513989f4fa35f151f0473c0cabc670c.js",
   "service-worker.js": "/marketplace/service-worker.js"
 }
