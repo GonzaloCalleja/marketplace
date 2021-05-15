@@ -30,9 +30,12 @@ class App extends Component {
 
   async loadBlockchainData() {
     const web3 = window.web3
-    // load account
+    
+    // Load account
     const accounts = await web3.eth.getAccounts()
     this.setState({account: accounts[0]})
+
+    // Load Network
     const networkId = await web3.eth.net.getId()
     const networkData = Marketplace.networks[networkId]
     if (networkData){
