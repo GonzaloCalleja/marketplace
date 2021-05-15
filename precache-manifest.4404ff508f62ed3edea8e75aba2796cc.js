@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "3f8b76565a7f5117d966",
+    "revision": "bffc6a0247bacfbd1dad",
     "url": "/marketplace/static/css/main.83b30e14.chunk.css"
   },
   {
-    "revision": "3f8b76565a7f5117d966",
-    "url": "/marketplace/static/js/main.3f8b7656.chunk.js"
+    "revision": "bffc6a0247bacfbd1dad",
+    "url": "/marketplace/static/js/main.bffc6a02.chunk.js"
   },
   {
     "revision": "4d34caf5e65add0a6cca",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/marketplace/static/media/logo.06825633.png"
   },
   {
-    "revision": "b13ef370fb32d5f430ccb82c8ae8b0ec",
+    "revision": "cf74d7603b7dc3053a4cd9ab1e594333",
     "url": "/marketplace/index.html"
   }
 ];
