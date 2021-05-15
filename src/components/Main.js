@@ -31,7 +31,7 @@ class Main extends Component {
               placeholder="Product Price"
               required />
           </div>
-          <button type="submit" className="btn btn-primary">Add Product to Market</button>
+          <button type="submit" className="btn btn-primary">Add Product</button>
         </form>
         <p>&nbsp;</p>
         <h2>Buy Product</h2>
